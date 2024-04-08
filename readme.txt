@@ -1,9 +1,3 @@
-DANH SÁCH THÀNH VIÊN:
-NGUYỄN THANH TUẤN - 21521635
-LÊ MINH HOÀNG - 21522089
-TRƯƠNG QUANG NGHĨA - 21522376
-BÙI THÀNH QUANG - 21522507
-------------------------------------------------------
 Mô tả:
     1. Đồ án yêu cầu các thư viện sau:
         easyocr
