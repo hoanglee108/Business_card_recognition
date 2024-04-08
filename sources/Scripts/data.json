@@ -1,0 +1,110 @@
+[
+    {
+        "Employee Name": "REVANTH",
+        "Designation": "Marketing Executive",
+        "Company Name": "Family Restaurant ",
+        "Contact Number": "+91-456-1234",
+        "Email ID": "hello@CHRISTMAS.com",
+        "Website": "wWW.CHRISTMAS.com",
+        "Address": "123 ABC St,, HYDRABAD, TamilNadu; 600001 "
+    },
+    {
+        "Employee Name": "ALEXANDER ARONOWITZ",
+        "Designation": "HEAD MANAGER",
+        "Company Name": "RIMBERIO REAL ESTATE ",
+        "Contact Number": "+123 456 7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "WW.reallygreatsite.com",
+        "Address": "123 Anywhere Any City, ST 12345 St , "
+    },
+    {
+        "Employee Name": "MORGAN MAXWELL",
+        "Designation": "General Manager",
+        "Company Name": "Real Estate ",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "wwW.reallygreatsite.com",
+        "Address": "123 Anywhere St;, ST 12345 City, "
+    },
+    {
+        "Employee Name": "MORGAN MAXWELL",
+        "Designation": "General Manager",
+        "Company Name": "",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "wwW.reallygreatsite.com",
+        "Address": "123 Anywhere St, Any ST 12345 City, "
+    },
+    {
+        "Employee Name": "Selva",
+        "Designation": "DATA MANAGER",
+        "Company Name": "selva digitals ",
+        "Contact Number": "+123-456-7891",
+        "Email ID": "hello@XYZ1.com",
+        "Website": "WWW.XYZI.com",
+        "Address": "123 ABC St , Chennai; TamilNadu 600113 "
+    },
+    {
+        "Employee Name": "KARTHICK",
+        "Designation": "General Manager",
+        "Company Name": "BORCELLE AIRLINES ",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@Borcelle.com",
+        "Website": "www.Borcelle.com",
+        "Address": "123 ABC St , Salem, TamilNadu 6004513 "
+    },
+    {
+        "Employee Name": "AARON LOEB",
+        "Designation": "Graphic Designer",
+        "Company Name": "FAUGET ",
+        "Contact Number": "123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "",
+        "Address": "123 Anywhere St,  Any City"
+    },
+    {
+        "Employee Name": "Olivia Wilson",
+        "Designation": "Marketing Manager",
+        "Company Name": "Real Estate ",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "www.reallygreatsite.com",
+        "Address": "123 Anywhere St: Any City, ST 12345 "
+    },
+    {
+        "Employee Name": "Mariana Anderson",
+        "Designation": "Marketing Manager",
+        "Company Name": "",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "WWW.reallygreatsite.com",
+        "Address": "123 Anywhere St,, Any City, ST 12345 "
+    },
+    {
+        "Employee Name": "Helene Paquet",
+        "Designation": "Marketing Manager",
+        "Company Name": "INGOUDE ",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "www.reallygreatsite.com",
+        "Address": "123 Anywhere St: Any  City"
+    },
+    {
+        "Employee Name": "Aaron Loeb",
+        "Designation": "INTERIOR DESIGN",
+        "Company Name": "",
+        "Contact Number": "123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "www.reallygreatsite.com",
+        "Address": "123 Anywhere St, Any City "
+    },
+    {
+        "Employee Name": "Juliana silva",
+        "Designation": "Event Organizer",
+        "Company Name": "",
+        "Contact Number": "+123-456-7890",
+        "Email ID": "hello@reallygreatsite.com",
+        "Website": "www.reallygreatsite.com",
+        "Address": "123 Anywhere St,, Any City, ST 12345 "
+    }
+]
